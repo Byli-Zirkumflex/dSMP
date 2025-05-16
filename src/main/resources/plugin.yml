@@ -1,0 +1,7 @@
+name: dMain
+version: '1.0-SNAPSHOT'
+main: eu.zirkumflex.dMain.DMain
+api-version: '1.21'
+prefix: [ Zirkumflex ]
+authors: [ Byli-Zirkumflex ]
+website: www.zirkumflex.eu
